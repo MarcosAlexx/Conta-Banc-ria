@@ -1,4 +1,4 @@
-public class Main {
+public class Test {
     public static void main(String[] args) {
         //atribuindo valores aos atributos
         ContaBancaria conta1 = new ContaBancaria("12345", "João", 1000.00, 500.00, "Corrente");
